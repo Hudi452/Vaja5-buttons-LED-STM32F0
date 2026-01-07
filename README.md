@@ -1,6 +1,6 @@
 #  Vaja5-buttons-LED-STM32F0
 
-Odgovori na vprašanja\
+Odgovori na vprašanja:\
 T1:PB10\ 
 T2:PB11\
 T3:PB12\
